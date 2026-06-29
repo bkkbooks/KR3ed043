@@ -1,0 +1,217 @@
+canonical_identifier: bkk:krp/KR3ed043/v1
+canonical_location: https://kanripo.org/bkk/KR3ed043/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫便
+  identifiers:
+    krp: KR3ed043
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed043.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed043_000.yaml, hash: 'sha256:bfaaadaf1ce5631af9270b35c228b2bcc4cf5fe1d354b0bf5503aa6ae0f3ac1a'}
+  - {seq: 1, filename: KR3ed043_001.yaml, hash: 'sha256:6520f9b53fa6b724b52012dd0aaccdced7cf0b349e2b6b750cb0e95f465f5965'}
+  - {seq: 2, filename: KR3ed043_002.yaml, hash: 'sha256:85fac1d0e7729b93c362de17794a044b39eee434300e4f61eb10f56b5a0c2488'}
+  - {seq: 3, filename: KR3ed043_003.yaml, hash: 'sha256:246fc003c5c7e735da84749ec52d1bcf0812279866f3d6d920560720386b73c0'}
+  - {seq: 4, filename: KR3ed043_004.yaml, hash: 'sha256:b5157fa6ddb1ba13f403988055a46edc6c010dcfec61b5cd0fe4b43356dc2872'}
+  - {seq: 5, filename: KR3ed043_005.yaml, hash: 'sha256:46e319e05f30451b265b7121ade8be49bb3ee05e9bdba830136e45c7cedbea81'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed043_000.markers.yaml, hash: 'sha256:f490f164239a37e7b79073ad5925879193124bb43c1287db62b4a1848550cfe6'}
+  - {seq: 1, role: markers, filename: assets/KR3ed043_001.markers.yaml, hash: 'sha256:5d5785ba9c88f268294e528ab43d06a7db713fe4812183506b0f9bc02f80ac75'}
+  - {seq: 2, role: markers, filename: assets/KR3ed043_002.markers.yaml, hash: 'sha256:39762af7e57f5b30c02000bdb93d072eff1b5f649edee27bce2c297311fec036'}
+  - {seq: 3, role: markers, filename: assets/KR3ed043_003.markers.yaml, hash: 'sha256:65de636f25cc83e317127065f31522e273cbaaea684d2ceb759e9814fbc1a341'}
+  - {seq: 4, role: markers, filename: assets/KR3ed043_004.markers.yaml, hash: 'sha256:5ec53c85070ded5328163722361a376f1e85c79ba561e4c10b24726303a2b9f3'}
+  - {seq: 5, role: markers, filename: assets/KR3ed043_005.markers.yaml, hash: 'sha256:91d769a57e6ff54db6461e1319d59b2f98f97c6de969d476e25fb0fa61eab4b9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed043_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 343
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed043_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6280
+  label: 醫便提綱
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed043_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 12466
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed043_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 799
+  label: 飲食論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed043_jc_001-d4d3
+    span:
+    - body
+    - 799
+    - 12466
+  label: 男女論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed043_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9751
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed043_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 3929
+  label: 春月諸症治例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed043_jc_002-d5d3
+    span:
+    - body
+    - 3929
+    - 9751
+  label: 夏月諸症治例
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed043_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 13260
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed043_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 4379
+  label: 秋月諸症治例附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed043_jc_003-d6d3
+    span:
+    - body
+    - 4379
+    - 13260
+  label: 冬月諸症治例
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed043_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 11842
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed043_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 5265
+  label: 濟陰類
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed043_jc_004-d7d3
+    span:
+    - body
+    - 5265
+    - 9833
+  label: 慈幼類
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed043_jc_004-d7d4
+    span:
+    - body
+    - 9833
+    - 11842
+  label: 養老類
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed043_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 10995
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed043_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 1273
+  label: 禁方
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed043_jc_005-d8d3
+    span:
+    - body
+    - 1273
+    - 10995
+  label: 服用
+  type: section
+  level: 2
+hash: sha256:3c9cd087a33dfa246ef0e73b11758cf35ebfbbd754e1924e083d85fc1bc31470
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
